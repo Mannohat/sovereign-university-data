@@ -1,6 +1,6 @@
 ---
 name: Bitcoin-rejsen
-goal: Opdag Bitcoin og dets grundlæggende, herunder dets monetære værdiforslag, minearbejdere, transaktioner og tegnebøger.
+goal: Opdag Bitcoin og dets grundprincipper, herunder dets monetære værdiforslag, minearbejdere, transaktioner og tegnebøger.
 objectives:
   - Opnå en generel forståelse af Bitcoin-teknologi
   - Forstå, hvordan man køber og sikrer bitcoins
