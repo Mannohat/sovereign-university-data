@@ -9,7 +9,7 @@ objectives:
   - Realisere den geopolitiske og sociale indvirkning af Bitcoin
 ---
 
-# Din første Bitcoin-eventyr
+# Din første Bitcoin-eventyr.
 
 I denne kursus vil jeg forklare Bitcoin i 21 kapitler, så du kan forstå denne teknologi på en simpel og effektiv måde. Kurset er tilgængeligt for alle og udforsker branchen som helhed: minearbejdere, tegnebøger, købs-/salgsplatforme osv...
 
