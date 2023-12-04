@@ -377,6 +377,7 @@ Faktisk kan enhver verificere mængden af bitcoins i omløb ved at indtaste en s
   "disk_size": 178239584,
   "total_amount": 18745998.12345678
 }
+```
 
 Bitcoin, ved sin design, garanterer en sund monetær styring ved at begrænse sin skabelse og beskytte brugernes opsparing, hvilket adskiller det fra andre valutaer. I overensstemmelse med principperne for østrigsk økonomi (detaljer i ECON201) beskytter dets kontrollerede mængde og forudsigelige distribution det mod de iboende risici ved inflation i traditionelle valutaer.
 
